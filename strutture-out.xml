@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="11.0.20" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="Struttura" id="Struttura0">
+    <void property="camere">
+     <void property="doppie">
+      <int>3</int>
+     </void>
+     <void property="quadruple">
+      <int>3</int>
+     </void>
+     <void property="sestuple">
+      <int>1</int>
+     </void>
+     <void property="singole">
+      <int>3</int>
+     </void>
+     <void property="triple">
+      <int>2</int>
+     </void>
+    </void>
+    <void property="classificazione">
+     <string>5 stelle</string>
+    </void>
+    <void property="denominazione">
+     <string>Albergo Scanzi</string>
+    </void>
+    <void property="indirizzo">
+     <string>Via Roma 16</string>
+    </void>
+    <void property="tipologia">
+     <string>Albergo</string>
+    </void>
+    <void property="unitaAbitative">
+     <void property="postiLettoTotali">
+      <int>12</int>
+     </void>
+     <void property="totale">
+      <int>4</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Struttura" id="Struttura1">
+    <void property="camere">
+     <void property="doppie">
+      <int>4</int>
+     </void>
+     <void property="quadruple">
+      <int>3</int>
+     </void>
+     <void property="quintuple">
+      <int>2</int>
+     </void>
+     <void property="sestuple">
+      <int>1</int>
+     </void>
+     <void property="singole">
+      <int>2</int>
+     </void>
+     <void property="triple">
+      <int>2</int>
+     </void>
+    </void>
+    <void property="classificazione">
+     <string>4 stelle</string>
+    </void>
+    <void property="denominazione">
+     <string>Albergo Volpi</string>
+    </void>
+    <void property="indirizzo">
+     <string>Via Venezia 12</string>
+    </void>
+    <void property="tipologia">
+     <string>Albergo</string>
+    </void>
+    <void property="unitaAbitative">
+     <void property="postiLettoTotali">
+      <int>10</int>
+     </void>
+     <void property="totale">
+      <int>3</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Struttura" id="Struttura2">
+    <void property="camere">
+     <void property="doppie">
+      <int>1</int>
+     </void>
+     <void property="quadruple">
+      <int>1</int>
+     </void>
+     <void property="quintuple">
+      <int>1</int>
+     </void>
+     <void property="sestuple">
+      <int>1</int>
+     </void>
+     <void property="singole">
+      <int>1</int>
+     </void>
+     <void property="triple">
+      <int>1</int>
+     </void>
+    </void>
+    <void property="classificazione">
+     <string>3 stelle</string>
+    </void>
+    <void property="denominazione">
+     <string>Albergo Carissimi</string>
+    </void>
+    <void property="indirizzo">
+     <string>Via Milano 3</string>
+    </void>
+    <void property="tipologia">
+     <string>Albergo</string>
+    </void>
+    <void property="unitaAbitative">
+     <void property="postiLettoTotali">
+      <int>1</int>
+     </void>
+     <void property="totale">
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
